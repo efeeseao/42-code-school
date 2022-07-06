@@ -1,6 +1,6 @@
 enum Route {
   Sobre = '#about',
-  Doar = '/',
+  Doar = 'https://forms.gle/NQKodxeeScj6jJBH7',
   Mentor = 'https://forms.gle/STchTT1eBJZsAxho9',
   Contato = '#contacts'
 }
