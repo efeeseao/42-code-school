@@ -19,7 +19,7 @@ const Footer = () => {
             </a>
           </Link>
           <p>
-            © {currentYear} Kriandu. <br />
+            © {currentYear} 42 Code School. <br />
             Todos os direitos reservados.
           </p>
         </S.ColumnA>

@@ -13,7 +13,7 @@ export default [
   },
   {
     id: v4(),
-    title: '923 215 717',
+    title: '997 516 295',
     icon: '/icons/whatsapp.svg'
   }
 ]

@@ -21,7 +21,11 @@ const Contact = () => (
               </li>
             ))}
           </ul>
-          <a href="/" target="_blank" rel="noreferrer">
+          <a
+            href="https://forms.gle/NQKodxeeScj6jJBH"
+            target="_blank"
+            rel="noreferrer"
+          >
             <Button size="medium">Quero Fazer doação</Button>
           </a>
         </S.Content>
